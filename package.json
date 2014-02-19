@@ -1,0 +1,18 @@
+{
+  "name": "restflight",
+  "version": "0.0.0",
+  "description": "restflight client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/restflight/nodejs.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/restflight/nodejs/issues"
+  }
+}
